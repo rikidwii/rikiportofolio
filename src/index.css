@@ -1,0 +1,13 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+
+@theme {
+  --color-brand-600: oklch(0.6 0.15 260);
+  --font-Inter: "Inter", sans-serif;
+}
+
+@font-face {
+  font-family: Inter;
+  src: url("../src/fonts/static/Inter-Regular.ttf");
+}
