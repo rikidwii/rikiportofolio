@@ -1,5 +1,5 @@
-import Navbar from "./components/navbar";
-import Footer from "./components/footer";
+import Navbar from "./components/Navbar.jsx";
+import Footer from "./components/Footer.jsx";
 import Home from "./components/Home";
 import About from "./components/About";
 import Project from "./components/Project";
